@@ -8,7 +8,7 @@ font-size:14px;
 /* ====== bar ontop the nav bar =======*/
 
 #header {
-background-image: url ("material.jpg");
+background-color: black;
 margin:10px;
 height:100px;
 border-radius:5px;
